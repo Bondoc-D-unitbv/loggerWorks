@@ -4,3 +4,12 @@
 [11:41:30] Code.exe - main.py - loggerWorks - Visual Studio Code
 [11:41:35] chrome.exe - Activity Logger Program - Google Chrome
 [11:41:45] Code.exe - main.py - loggerWorks - Visual Studio Code
+[11:50:39] Code.exe - main.py - loggerWorks - Visual Studio Code
+[11:50:44] Unknown - Error: process PID not found (pid=628493104)
+[11:50:49] python.exe - loggerWorks
+[11:50:54] python.exe - loggerWorks
+[11:50:59] SearchApp.exe - Search
+[11:51:04] Audacity.exe - Audacity is starting up...
+[11:51:09] Audacity.exe - Welcome to Audacity!
+[11:51:14] python.exe - loggerWorks
+[11:51:19] python.exe - loggerWorks
