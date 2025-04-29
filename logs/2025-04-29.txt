@@ -13,3 +13,20 @@
 [11:51:09] Audacity.exe - Welcome to Audacity!
 [11:51:14] python.exe - loggerWorks
 [11:51:19] python.exe - loggerWorks
+[13:04:39] Code.exe - main.py - loggerWorks - Visual Studio Code
+[13:04:44] python.exe - loggerWorks
+[13:04:49] notepad++.exe - C:\Users\Bond\Documents\Facultate-An2_S2\PSM-Probabilitati_&_Statistica_Mate\Seminar-Laborator\Cerinte.txt - Notepad++
+[13:04:54] python.exe - loggerWorks
+[13:04:59] python.exe - loggerWorks
+[13:05:14] Unknown - Error: process PID not found (pid=2137048304)
+[13:05:19] HWMonitor_x64.exe - CPUID HWMonitor
+[13:05:24] explorer.exe - 
+[13:05:29] explorer.exe - 
+[13:05:34] explorer.exe - 
+[13:05:39] python.exe - loggerWorks
+[13:05:44] python.exe - loggerWorks
+[13:05:49] python.exe - loggerWorks
+[13:05:54] python.exe - loggerWorks
+[13:05:59] python.exe - loggerWorks
+[13:06:04] python.exe - loggerWorks
+[13:06:09] python.exe - loggerWorks

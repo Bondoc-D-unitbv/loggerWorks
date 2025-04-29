@@ -1,7 +1,7 @@
 import time
-import win32gui
-import win32process
-import psutil
+import win32gui # type: ignore
+import win32process # type: ignore
+import psutil # type: ignore
 
 from logger.file_logger import log_activity
 
