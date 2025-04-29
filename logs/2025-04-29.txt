@@ -30,3 +30,13 @@
 [13:05:59] python.exe - loggerWorks
 [13:06:04] python.exe - loggerWorks
 [13:06:09] python.exe - loggerWorks
+[13:10:56] Code.exe - main.py - loggerWorks - Visual Studio Code
+[13:11:01] python.exe - loggerWorks
+[13:11:06] python.exe - loggerWorks
+[13:11:11] python.exe - loggerWorks
+[13:11:16] python.exe - loggerWorks
+[13:11:21] python.exe - loggerWorks
+[13:11:26] python.exe - loggerWorks
+[13:11:31] python.exe - loggerWorks
+[13:11:36] python.exe - loggerWorks
+[13:11:41] python.exe - loggerWorks
